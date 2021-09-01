@@ -1,0 +1,8 @@
+name: "oxynoe"
+displayName: "Oxynoe"
+author: oxynoe
+description: "oxynoe :>"
+version: "1"
+minGameVersion: "130.1"
+dependencies: [ ]
+hidden: true
